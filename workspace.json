@@ -38,7 +38,7 @@
             "assets": ["apps/scope/src/favicon.ico", "apps/scope/src/assets"],
             "styles": ["apps/scope/src/styles.css"],
             "scripts": [],
-            "webpackConfig": "@nrwl/react/plugins/webpack"
+            "webpackConfig": "apps/scope/webpack.config"
           },
           "configurations": {
             "production": {
